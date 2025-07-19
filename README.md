@@ -1,14 +1,14 @@
 #  Codecademy Diaries: Day 1 – 2  
-###  Customer Reviews Feature Engineering Project
+##  Customer Reviews Feature Engineering Project
 
 
-##  Project Overview
+###  Project Overview
 
 As part of my Codecademy Machine Learning/AI Engineer learning journey, this project marks my progress through **Day 1 and Day 2**, focusing on transforming a raw customer reviews dataset into a machine learning–ready format.
 
 The dataset is sourced from **Kaggle**, containing 23,000+ women’s clothing e-commerce reviews. My task was to **engineer features** to prepare the data for future modeling and analysis.
 
-##  Note
+###  Note
 
 This dataset has been adapted and modified by Codecademy for learning purposes. The original dataset can be found on Kaggle:
 
